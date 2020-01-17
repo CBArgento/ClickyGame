@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Neuer",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/manuel_neuer.png/manuel_neuer.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964590629",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Boateng",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/jerome_boateng.png/jerome_boateng.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964332175",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Pavard",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/benjamin_pavard.png/benjamin_pavard.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1565017945975",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Kimmich",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/joshua_kimmich.png/joshua_kimmich.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964378660",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Thiago",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/thiago.png/thiago.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561965140170",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Coutinho",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/philippe_coutinho.png/philippe_coutinho.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1566465455206",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Lewandowski",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/robert_lewandowski.png/robert_lewandowski.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964896925",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Perisic",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/ivan_perisic.png/ivan_perisic.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1566462647550",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Muller",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/thomas_mueller.png/thomas_mueller.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561965211523",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Coman",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/kingsley_coman.png/kingsley_coman.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964421888",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Goretzka",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/leon_goretzka.png/leon_goretzka.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964509180",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Martinez",
+      "image": "https://img.fcbayern.com/image/fetch/f_auto,h_780,q_auto:good,w_349/https://fcbayern.com/binaries/content/gallery/fc-bayern/players/spielerportraits/ganzkoerper/javi_martinez.png/javi_martinez.png/fcbhippo%3AfullBodyShotHd%3Fv%3D1561964087880",
+      "clicked": false
+    }
+  ]

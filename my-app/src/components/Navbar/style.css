@@ -1,0 +1,21 @@
+.navbar {
+    margin: 0;
+    width: 100%;
+  }
+  
+  #score, #guess, #top-score {
+    font-size: larger;
+    color: antiquewhite;
+  }
+  
+  #score {
+    text-align: right;
+  }
+  
+  #guess {
+    text-align: center;
+  }
+  
+  #top-score {
+    text-align: left;
+  }
