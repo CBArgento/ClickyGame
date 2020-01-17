@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import images from "./images.json";
 import update from "immutability-helper";
+import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -78,7 +79,7 @@ class App extends Component {
           score={this.state.score}
           topScore={this.state.topScore}
         />
-        <Hero backgroundImage="https://img.fcbayern.com/image/fetch/f_auto,h_768,q_auto:good,w_1366/https://fcbayern.com/binaries/content/gallery/fc-bayern/homepage/saison-19-20/profis/191105_kaderbild_ohne-kovac.png/191105_kaderbild_ohne-kovac.png/fcbhippo%3Axtralargesixteentonine%3Fv%3D1573036362582">
+        <Hero backgroundImage="https://images.alphacoders.com/605/thumb-350-605799.jpg">
           <h1>Clicky Game!</h1>
           <h2>Click on an image to earn points, but don't click on any more than once!</h2>
         </Hero>
