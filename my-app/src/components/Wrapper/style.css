@@ -1,0 +1,11 @@
+.wrapper {
+    background: #ECEFF1;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: flex-start;
+    overflow: auto;
+    margin: 0 auto;
+  }
