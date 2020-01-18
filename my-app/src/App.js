@@ -5,7 +5,7 @@ import Wrapper from "./components/Wrapper";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import images from "./images.json";
-import update from "immutability-helper";
+//import update from "immutability-helper";
 import logo from './logo.svg';
 import './App.css';
 
