@@ -14,7 +14,7 @@ class App extends Component {
   // Set the initial state
   state = {
     images,
-    message: "Click an image to begin!",
+    message: "Click an image to start Playing!",
     score: 0,
     topScore: 0
   };
