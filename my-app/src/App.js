@@ -32,8 +32,8 @@ class App extends Component {
         if (imagesArr[i].clicked === false) {
           console.log("Clicked new image");
           this.setState({
-            images: update(this.state.images, { [i]: { clicked: { $set: true } } }),
-            message: "Look at the big brain on Brad!",
+            //images: update(this.state.images, { [i]: { clicked: { $set: true } } }),
+            message: "Dragonball Z Game",
             score: this.state.score + 1
           });
         } else {
