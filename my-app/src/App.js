@@ -40,7 +40,7 @@ class App extends Component {
           console.log("Clicked same image");
           this.setState({
             images,
-            message: "What did you do?",
+            message: "Keep trying?",
             score: 0,
             topScore: (this.state.score > this.state.topScore) ? this.state.score : this.state.topScore
           });
